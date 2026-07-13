@@ -8,7 +8,7 @@
 }
 
 body {
-  color: #24292f;
+  color: #222222;
   font-size: 17px;
   line-height: 1.72;
 }
@@ -36,16 +36,17 @@ header {
 
 footer {
   margin-top: 56px;
-  color: #57606a;
+  color: #444b53;
 }
 
 section {
+  color: #222222;
   padding-bottom: 0;
 }
 
 h1,
 h2 {
-  color: #111827;
+  color: #111111;
   letter-spacing: 0;
 }
 
@@ -63,16 +64,18 @@ h2 {
 }
 
 p {
+  color: #222222;
   margin: 0 0 1.25rem;
 }
 
 strong {
-  color: #111827;
+  color: #111111;
   font-weight: 700;
 }
 
 a {
-  color: #0969da;
+  color: #005ea8;
+  text-decoration-line: underline;
   text-decoration-thickness: 0.08em;
   text-underline-offset: 0.16em;
   overflow-wrap: break-word;
@@ -80,18 +83,24 @@ a {
 
 a:hover,
 a:focus {
-  color: #054da7;
+  color: #003f7d;
+}
+
+a:focus-visible {
+  outline: 2px solid #005ea8;
+  outline-offset: 2px;
 }
 
 blockquote {
   margin: 1.7rem 0;
   padding: 0.1rem 0 0.1rem 1.15rem;
-  border-left: 4px solid #8c959f;
-  color: #4b5563;
+  border-left: 4px solid #6e7781;
+  color: #343a40;
   font-style: normal;
 }
 
 blockquote p {
+  color: inherit;
   margin: 0.75rem 0;
 }
 
@@ -110,7 +119,7 @@ blockquote p {
 
 .article-figure figcaption {
   margin-top: 0.65rem;
-  color: #57606a;
+  color: #444b53;
   font-size: 0.92rem;
   line-height: 1.45;
   text-align: center;
@@ -119,7 +128,7 @@ blockquote p {
 #references ~ p {
   margin-bottom: 1rem;
   padding-left: 2.35rem;
-  color: #3f4650;
+  color: #30363d;
   font-size: 0.95rem;
   line-height: 1.58;
   text-indent: -2.35rem;
