@@ -1,0 +1,153 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  color: #24292f;
+  font-size: 17px;
+  line-height: 1.72;
+}
+
+.wrapper {
+  max-width: 980px;
+  padding: 48px 28px 72px;
+}
+
+header,
+section,
+footer {
+  float: none;
+  position: static;
+  width: min(100%, 700px);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+header {
+  margin-bottom: 44px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #d8dee4;
+}
+
+footer {
+  margin-top: 56px;
+  color: #57606a;
+}
+
+section {
+  padding-bottom: 0;
+}
+
+h1,
+h2 {
+  color: #111827;
+  letter-spacing: 0;
+}
+
+h1 {
+  margin: 0 0 26px;
+  font-size: 2.35rem;
+  line-height: 1.16;
+}
+
+h2 {
+  margin: 56px 0 18px;
+  padding-top: 8px;
+  font-size: 1.55rem;
+  line-height: 1.28;
+}
+
+p {
+  margin: 0 0 1.25rem;
+}
+
+strong {
+  color: #111827;
+  font-weight: 700;
+}
+
+a {
+  color: #0969da;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+  overflow-wrap: break-word;
+}
+
+a:hover,
+a:focus {
+  color: #054da7;
+}
+
+blockquote {
+  margin: 1.7rem 0;
+  padding: 0.1rem 0 0.1rem 1.15rem;
+  border-left: 4px solid #8c959f;
+  color: #4b5563;
+  font-style: normal;
+}
+
+blockquote p {
+  margin: 0.75rem 0;
+}
+
+.article-figure {
+  margin: 2rem 0 2.25rem;
+}
+
+.article-figure img {
+  display: block;
+  width: 100%;
+  max-width: 640px;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid #d0d7de;
+}
+
+.article-figure figcaption {
+  margin-top: 0.65rem;
+  color: #57606a;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  text-align: center;
+}
+
+#references ~ p {
+  margin-bottom: 1rem;
+  padding-left: 2.35rem;
+  color: #3f4650;
+  font-size: 0.95rem;
+  line-height: 1.58;
+  text-indent: -2.35rem;
+}
+
+@media screen and (max-width: 720px) {
+  body {
+    font-size: 16px;
+  }
+
+  .wrapper {
+    padding: 28px 18px 48px;
+  }
+
+  header {
+    margin-bottom: 32px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    margin-top: 44px;
+    font-size: 1.32rem;
+  }
+
+  blockquote {
+    padding-left: 0.9rem;
+  }
+}

@@ -19,27 +19,27 @@ screwdriver made no sense to me.
 
 At one point, I compared using AI to following write-ups:
 
-— “If the thought process behind the result isn’t yours, but entirely
-Claude Code’s, there’s no real difference between that and using a
-public write-up made by someone who has already solved the machine. In
-your opinion, **are a person who uses write-ups and another who doesn’t
-at the same technical level**?”
+> “If the thought process behind the result isn’t yours, but entirely
+> Claude Code’s, there’s no real difference between that and using a
+> public write-up made by someone who has already solved the machine. In
+> your opinion, are a person who uses write-ups and another who doesn’t
+> at the **same technical level**?”
 
 He hesitated for a moment and said:
 
-— “Haa... **Yes, because they got the same result**...”
+> “Haa... Yes, because they got the same result...”
 
 I was astonished.
 
-— “So, for you, Capture the Flag was never about testing your own
-technical knowledge. It was just about getting a string from a virtual
-machine, receiving a message saying, ‘**Congratulations, you did it**,’
-and feeling smart because of it?”
+> “So, for you, Capture the Flag was never about testing your own
+> technical knowledge. It was just about getting a string from a virtual
+> machine, receiving a message saying, ‘Congratulations, you did it,’
+> and feeling smart because of it?”
 
 He realised that his view was kind of messed up and admitted:
 
-— “You’re right, they’re not at the same technical level. But for me, AI
-is still just a tool, and we will not agree on this point. Goodbye.”
+> “You’re right, they’re not at the same technical level. But for me, AI
+> is still just a tool, and we will not agree on this point. Goodbye.”
 
 Then he left.
 
@@ -49,23 +49,23 @@ instructions**. That is the topic of this article.
 
 ## 1988 — Script Kiddies: The Most Famous Wannabe Hackers
 
-![Hackerpix](assets/Pictures/100000010000030C000001CE1BA851DB.gif)
-
-[*http://www.erik.co.uk/hackerpix/*](http://www.erik.co.uk/hackerpix/)
-\[1\]
+<figure class="article-figure">
+  <img src="assets/Pictures/100000010000030C000001CE1BA851DB.gif" alt="Hackerpix">
+  <figcaption><a href="http://www.erik.co.uk/hackerpix/"><em>http://www.erik.co.uk/hackerpix/</em></a> [1]</figcaption>
+</figure>
 
 The term “script kiddie” was first used in 1988 in the master’s thesis
-Information Security, Privacy, Issues and an Application, by Saliha
-Figen. \[2\]
+*Information Security, Privacy, Issues and an Application*, by Saliha
+Figen. [2]
 
-Some years later, Phrack, a group composed mainly of teenagers who wrote
+Some years later, *Phrack*, a group composed mainly of teenagers who wrote
 articles about operating systems and other technologies, used the term
-in articles 9 and 11 from 1998: \[3\]\[4\]
+in articles 9 and 11 from 1998: [3][4]
 
-> “\[...\] when someone posts (say) a root hole in Sun’s comsat daemon,
+> “[...] when someone posts (say) a root hole in Sun’s comsat daemon,
 > our little cracker could grep his list for ‘UDP/512’ and ‘Solaris 2.6’
 > and he immediately has pages and pages of rootable boxes. It should be
-> noted that this is SCRIPT KIDDIE behavior.” \[3\]
+> noted that this is SCRIPT KIDDIE behavior.” [3]
 
 But what is a script kiddie?
 
@@ -140,14 +140,14 @@ The important question is:
 There is an engineering niche based on structuring natural human
 language to make generative artificial intelligence produce more
 accurate, relevant, or useful outputs for the user. It is known as
-prompt engineering. \[5\]
+prompt engineering. [5]
 
 During the AI boom of the 2020s, employees with the title of prompt
 engineer were hired to create prompts that would increase business
 productivity. A branch of ethical hacking was also developed around the
 idea of bypassing AI security guidelines to make AI systems do things
 they were not supposed to do, which became known as **prompt
-injection**. \[5\]
+injection**. [5]
 
 Based on the fact that AI can reduce a great part of analytical thinking
 because of its pattern-recognition capabilities, when an individual
@@ -168,29 +168,29 @@ few seconds, without deeply thinking about the problem, is a Prompt Monkey.
 
 ## Spending Most Their Lives Living in The Dumbass Paradise...
 
-**The main problem with excessive AI use is not merely
-psychological, nor is it just a case of the older generation abhorring
-the new one. It is factual, and it has been repeatedly confirmed by
-several news reports and studies.**
+The main problem with excessive AI use is not merely psychological, nor
+is it just a case of the older generation abhorring the new one. It is
+factual, and it has been repeatedly confirmed by several news reports
+and studies.
 
 According to a recent MIT Media Lab study, “excessive reliance on
 AI-driven solutions” may contribute to “**cognitive atrophy**” and the
 **shrinking of critical-thinking abilities**. Senior Research Fellow
-Christopher Dede added: \[6\]\[7\]
+Christopher Dede added: [6][7]
 
 > “If AI is doing your thinking for you, whether it’s through
-> auto-complete or whether it’s in some more sophisticated ways \[...\]
+> auto-complete or whether it’s in some more sophisticated ways [...]
 > **that is undercutting your critical thinking and your creativity**.”
-> \[6\]
+> [6]
 
 Another researcher, Fawwaz Habbal, Senior Lecturer in Applied Physics,
 stated:
 
-> “**I worry about students relying too much on AI**. We have to remind
+> “I worry about students relying too much on AI. We have to remind
 > students that we’re trying to help them become the future leaders of
 > society, and part of developing leadership is to add new value to
-> society; and that is a human enterprise \[...\] **Only humans can
-> solve human problems**.” \[6\]
+> society; and that is a human enterprise [...] **Only humans can
+> solve human problems**.” [6]
 
 So, if excessive AI use is so harmful to human cognitive abilities, why
 is this way of using AI still the most popular? Because it is easier and
@@ -204,26 +204,29 @@ MIT research scientist Nataliya Kosmyna, who studies the interaction
 between humans and machines, concluded that what she calls “cognitive
 offloading” to AI can have a corrosive effect on our mental abilities.
 The consequences could be alarming and may even contribute to cognitive
-decline: \[7\]\[8\]
+decline: [7][8]
 
 > “The ChatGPT group showed notably less brain activity — **it was
-> reduced by up to 55%**.” \[7\]\[8\]
+> reduced by up to 55%**.” [7][8]
 
 ## When Human Stupidity and Corporate Greed Collide...
 
-##### According to the study Beyond automation: Understanding unemployment in the AI Epoch from a global viewpoint, rapid and unprepared AI integrations tend to amplify the negative effects of unemployment on subjective well-being and exacerbate inequalities, particularly among the most vulnerable populations. \[9\]
+According to the study *Beyond Automation: Understanding Unemployment in
+the AI Epoch from a Global Viewpoint*, rapid and unprepared AI
+integrations tend to amplify the negative effects of unemployment on
+subjective well-being and exacerbate inequalities, particularly among
+the most vulnerable populations. [9]
 
 Some researchers believe that AI and automation could eventually
 replace a large number of human jobs. One widely cited estimate suggests
 that around 47% of jobs could be automated ([Frey & Osborne,
-2017](https://www.sciencedirect.com/science/article/pii/S2451958825002799#bib34)).
-\[10\]
+2017](https://www.sciencedirect.com/science/article/pii/S2451958825002799#bib34)). [10]
 
 In terms of impact magnitude, [Acemoglu and Restrepo
 (2020)](https://www.sciencedirect.com/science/article/pii/S2451958825002799#bib3) confirm
 that each additional robot per thousand workers reduces the
 employment-to-population ratio by 0.2 percentage points and wages by
-0.42 %. \[11\]
+0.42%. [11]
 
 And that number may continue to grow as computers become faster and AI
 systems become better at tasks that once required human reasoning. But
@@ -238,14 +241,14 @@ benefits with the people whose jobs are being transformed or eliminated.
 
 When people blindly accept every new technology as progress and
 companies see human workers only as expenses, human stupidity and
-corporate greed collide. \[12\]
+corporate greed collide. [12]
 
 ## Why After All, AI is Still Not a Villain...
 
-**The final point is that AI is not a bad thing; it is the way AI
-is used that can be harmful. Any tool, when used inappropriately, can
-hurt its owner. The fact is that there is a clear difference between
-learning from AI and making it do all the work for you.**
+The final point is that AI is not a bad thing; it is the way AI is used
+that can be harmful. Any tool, when used inappropriately, can hurt its
+owner. The fact is that there is a clear difference between **learning
+from AI** and making it do all the work for you.
 
 It only becomes degrading when AI becomes the decision-maker and you
 become the tool that executes and presents its conclusions. Saying that
@@ -255,12 +258,12 @@ become a problem.
 
 Even at the corporate level, when companies start replacing a large
 number of human jobs with AI without proper planning, they suffer the
-consequences. This is supported by a study conducted by **CloudBees**,
-in which more than 200 technology executives were surveyed about the use
-of AI in their companies. **Eighty-one percent reported problems related
-to AI-generated code after deployment, including functional errors,
-security vulnerabilities and performance issues**. Additionally, 63
-percent reported compliance violations caused by AI. \[13\]
+consequences. This is supported by a study conducted by CloudBees, in
+which more than 200 technology executives were surveyed about the use of
+AI in their companies. **Eighty-one percent reported problems related to
+AI-generated code after deployment**, including functional errors,
+security vulnerabilities and performance issues. Additionally, 63 percent
+reported compliance violations caused by AI. [13]
 
 Therefore, even companies that employ white-collar workers are learning
 the hard way that massive replacement by AI is not the answer to
@@ -269,78 +272,77 @@ one.
 
 ## Conclusion: The Result Is Not the Skill
 
-**The conversation that started this article showed me how easily
-people confuse reaching a result with possessing the knowledge required
-to produce it. Getting the flag, generating the code or solving the
-problem doesn't necessarily mean that the technical process was
-yours.**
+The conversation that started this article showed me how easily people
+confuse reaching a result with possessing the knowledge required to
+produce it. Getting the flag, generating the code or solving the problem
+doesn't necessarily mean that the technical process was yours.
 
-**AI still can be an excellent teacher, assistant and research tool.
+AI still can be an excellent teacher, assistant and research tool.
 However, when it performs the analysis, chooses the strategy, generates
 the command and corrects every mistake, the user is no longer
 demonstrating their own competence. They are only presenting the result
-of someone or something.**
+of someone or something.
 
-**A Prompt Monkey is not simply someone who uses AI. It is someone who
+A Prompt Monkey is not simply someone who uses AI. It is someone who
 consistently avoids thinking, delegates the entire intellectual process
-and then treats the final output as proof of personal ability.**
+and then treats the final output as proof of personal ability.
 
 **The real test begins when the AI is removed.**
 
 ## References
 
-\[1\] Erik. “Hackerpix.” Image source.
+[1] Erik. *“Hackerpix.”* Image source.
 [*http://www.erik.co.uk/hackerpix/*](http://www.erik.co.uk/hackerpix/)
 
-\[2\] S. F. Arifgoğlu. “Information Security, Privacy Issues and an
-Application.” Master’s thesis, Middle East Technical University, 1988.
+[2] S. F. Arifgoğlu. *Information Security, Privacy Issues and an
+Application.* Master’s thesis, Middle East Technical University, 1988.
 [*https://open.metu.edu.tr/handle/11511/7977*](https://open.metu.edu.tr/handle/11511/7977)
 
-\[3\] rain.forest.puppy (rfp). “NT Web Technology Vulnerabilities.”
-Phrack Magazine, vol. 8, issue 54, article 8, 25 December 1998.
+[3] rain.forest.puppy (rfp). *“NT Web Technology Vulnerabilities.”*
+*Phrack Magazine*, vol. 8, issue 54, article 8, 25 December 1998.
 [*https://phrack.org/issues/54/8*](https://phrack.org/issues/54/8)
 
-\[4\] LiveOverflow. “The Origin of Script Kiddie — Hacker Etymology.” 12
+[4] LiveOverflow. *“The Origin of Script Kiddie — Hacker Etymology.”* 12
 May 2019.
 [*https://liveoverflow.com/the-origin-of-script-kiddie-hacker-etymology/*](https://liveoverflow.com/the-origin-of-script-kiddie-hacker-etymology/)
 
-\[5\] Wikipedia contributors. “Prompt engineering.” Wikipedia.
+[5] Wikipedia contributors. *“Prompt engineering.”* *Wikipedia*.
 [*https://en.wikipedia.org/wiki/Prompt_engineering*](https://en.wikipedia.org/wiki/Prompt_engineering)
 
-\[6\] L. Mineo. “Is AI Dulling Our Minds?” The Harvard Gazette, 13
+[6] L. Mineo. *“Is AI Dulling Our Minds?”* *The Harvard Gazette*, 13
 November 2025.
 [*https://news.harvard.edu/gazette/story/2025/11/is-ai-dulling-our-minds/*](https://news.harvard.edu/gazette/story/2025/11/is-ai-dulling-our-minds/)
 
-\[7\] N. Kosmyna et al. “Your Brain on ChatGPT: Accumulation of
-Cognitive Debt when Using an AI Assistant for Essay Writing Task.”
+[7] N. Kosmyna et al. *“Your Brain on ChatGPT: Accumulation of
+Cognitive Debt when Using an AI Assistant for Essay Writing Task.”*
 arXiv:2506.08872, 2025.
 [*https://arxiv.org/abs/2506.08872*](https://arxiv.org/abs/2506.08872)
 
-\[8\] BBC Future. “AI Chatbots Could Be Making You Stupider.” 17 April
+[8] *BBC Future*. *“AI Chatbots Could Be Making You Stupider.”* 17 April
 2026.
 [*https://www.bbc.co.uk/future/article/20260417-ai-chatbots-could-be-making-you-stupider*](https://www.bbc.co.uk/future/article/20260417-ai-chatbots-could-be-making-you-stupider)
 
-\[9\] D. V. Le, T. Bui, and T. L. Yap. “Beyond Automation: Understanding
-Unemployment in the AI Epoch from a Global Viewpoint.” Computers in
-Human Behavior Reports, vol. 20, 2025, article 100864.
+[9] D. V. Le, T. Bui, and T. L. Yap. *“Beyond Automation: Understanding
+Unemployment in the AI Epoch from a Global Viewpoint.”* *Computers in
+Human Behavior Reports*, vol. 20, 2025, article 100864.
 [*https://www.sciencedirect.com/science/article/pii/S2451958825002799*](https://www.sciencedirect.com/science/article/pii/S2451958825002799)
 
-\[10\] C. B. Frey and M. A. Osborne. “The Future of Employment: How
-Susceptible Are Jobs to Computerisation?” Technological Forecasting and
-Social Change, vol. 114, 2017, pp. 254–280.
+[10] C. B. Frey and M. A. Osborne. *“The Future of Employment: How
+Susceptible Are Jobs to Computerisation?”* *Technological Forecasting and
+Social Change*, vol. 114, 2017, pp. 254–280.
 [*https://doi.org/10.1016/j.techfore.2016.08.019*](https://doi.org/10.1016/j.techfore.2016.08.019)
 
-\[11\] D. Acemoglu and P. Restrepo. “Robots and Jobs: Evidence from US
-Labor Markets.” Journal of Political Economy, vol. 128, no. 6, 2020, pp.
-2188–2244.
+[11] D. Acemoglu and P. Restrepo. *“Robots and Jobs: Evidence from US
+Labor Markets.”* *Journal of Political Economy*, vol. 128, no. 6, 2020,
+pp. 2188–2244.
 [*https://econpapers.repec.org/article/ucpjpolec/doi_3a10.1086_2f705716.htm*](https://econpapers.repec.org/article/ucpjpolec/doi_3a10.1086_2f705716.htm)
 
-\[12\] N. H. Ahmad, L. Stigholt, L. Duboc, and B. Penzenstadler. “AI
-Systems’ Negative Social Impact and Factors.” Information and Software
-Technology, vol. 192, 2026, article 108038.
+[12] N. H. Ahmad, L. Stigholt, L. Duboc, and B. Penzenstadler. *“AI
+Systems’ Negative Social Impact and Factors.”* *Information and Software
+Technology*, vol. 192, 2026, article 108038.
 [*https://www.sciencedirect.com/science/article/pii/S0950584926000273*](https://www.sciencedirect.com/science/article/pii/S0950584926000273)
 
-\[13\] CloudBees. “81% of Enterprise Technology Leaders Report
-Production Failures from AI-Generated Code, New Research Shows.” 19 May
+[13] *CloudBees*. *“81% of Enterprise Technology Leaders Report
+Production Failures from AI-Generated Code, New Research Shows.”* 19 May
 2026.
 [*https://www.cloudbees.com/newsroom/enterprise-technology-leaders-report-production-failures-from-ai-generated-code*](https://www.cloudbees.com/newsroom/enterprise-technology-leaders-report-production-failures-from-ai-generated-code)
