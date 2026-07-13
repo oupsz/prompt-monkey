@@ -1,5 +1,7 @@
 ---
-title: "Prompt Monkey: When AI creates the Illusion of Technical Skill"
+layout: default
+title: "Prompt Monkey: When AI Creates the Illusion of Technical Skill"
+description: "An essay about AI, technical competence and the rise of the Prompt Monkey."
 ---
 
 # Prompt Monkey: When AI creates the Illusion of Technical Skill
